@@ -250,4 +250,11 @@ justify-content: center;
 font-family:Calibri;
 
 }
+#foto {
+  border: 1px solid black; 
+  height: 5vh;
+  width: fit-content;
+  object-fit: contain;
+  border-radius: 50%;
+}
  
